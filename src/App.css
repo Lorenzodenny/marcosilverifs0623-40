@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+body{
+  
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjEitCQipXACJFunIGQvwRN1WD-ffKxR9kcg&usqp=CAU'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+  }
+  
+.ricerca{
+  border-radius: 50px;
+  padding: 30px;
+  margin-top: 50px;
+  border: 0;
+  font-size: 3em;
+}
+
+ul{
+  background-color: rgb(163, 163, 163);
+  border-radius: 20px;
+  opacity: 0.8;
+  border: 1px solid black;
+  width: 30vw;
+  list-style-type: none;
+  text-align: center;
+  margin-left: 3%;
+  padding: 2%;
+  font-size: 1.2em;
+}
+
+li{
+  margin: 0.3% 0;
+}
+
+
+.ricerche{
+  cursor: pointer;
+  margin: 2% 0;
+}
